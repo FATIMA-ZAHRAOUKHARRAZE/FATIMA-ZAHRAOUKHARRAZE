@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👨‍💻 All of my projects are available at [http://fatimazahra-oukharraze.kesug.com/](http://fatimazahra-oukharraze.kesug.com/)
+- 👨‍💻 All of my projects are available at [https://fatimazahra-oukharraze.kesug.com/](https://fatimazahra-oukharraze.kesug.com/)
 
 - 📫 How to reach me **fatimazahraoukharraze@gmail.com**
 
