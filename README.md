@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm FATIMA-ZAHRA OUKHARRAZE</h1>
 <h3 align="center">A passionate Full-Stack Development from Morocco</h3>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on **Symfony**
 
 - 🌱 I’m currently learning **react.js**
 
